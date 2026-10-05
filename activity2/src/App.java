@@ -7,7 +7,7 @@ public class App {
     public static void main(String[] args) throws IOException {
 
         File file = new File("data", "students.txt");
-        System.out.println("LA ruta original: " + file.getPath());
+        System.out.println("La ruta original: " + file.getPath());
         System.out.println("La ruta absoluta: " + file.getAbsolutePath());
 
         File absoluta = file.getAbsoluteFile();
