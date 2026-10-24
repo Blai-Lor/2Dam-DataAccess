@@ -1,0 +1,7 @@
+REPORT: JAVA INPUT STREAMS
+START
+Input streams read data as bytes.
+The mark method saves a position.
+The reset method returns to that position.
+END
+REPORT COMPLETE
